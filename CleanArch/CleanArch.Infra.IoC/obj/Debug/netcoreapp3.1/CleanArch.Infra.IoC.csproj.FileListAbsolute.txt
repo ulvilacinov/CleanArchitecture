@@ -3,3 +3,6 @@ C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Infra.IoC\bin
 C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArch.Infra.IoC.csprojAssemblyReference.cache
 C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArch.Infra.IoC.AssemblyInfoInputs.cache
 C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArch.Infra.IoC.AssemblyInfo.cs
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArch.Infra.IoC.pdb
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArch.Infra.IoC.dll
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArch.Infra.IoC.pdb
