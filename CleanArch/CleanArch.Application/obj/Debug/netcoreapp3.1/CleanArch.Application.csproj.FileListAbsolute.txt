@@ -1,0 +1,11 @@
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Application\bin\Debug\netcoreapp3.1\CleanArch.Application.deps.json
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Application\bin\Debug\netcoreapp3.1\CleanArch.Application.dll
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Application\bin\Debug\netcoreapp3.1\CleanArch.Application.pdb
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Application\bin\Debug\netcoreapp3.1\CleanArch.Domain.dll
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Application\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.csprojAssemblyReference.cache
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.AssemblyInfoInputs.cache
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.AssemblyInfo.cs
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.csproj.CopyComplete
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.dll
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.pdb
