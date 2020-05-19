@@ -6,3 +6,6 @@ C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Infra.Bus\obj
 C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Infra.Bus\obj\Debug\netcoreapp3.1\CleanArch.Infra.Bus.AssemblyInfo.cs
 C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Infra.Bus\obj\Debug\netcoreapp3.1\CleanArch.Infra.Bus.dll
 C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Infra.Bus\obj\Debug\netcoreapp3.1\CleanArch.Infra.Bus.pdb
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Infra.Bus\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.dll
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Infra.Bus\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.pdb
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Infra.Bus\obj\Debug\netcoreapp3.1\CleanArch.Infra.Bus.csproj.CopyComplete

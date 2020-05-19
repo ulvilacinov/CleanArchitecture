@@ -1,0 +1,8 @@
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Domain.Core\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.deps.json
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Domain.Core\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.dll
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Domain.Core\obj\Debug\netcoreapp3.1\CleanArch.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Domain.Core\obj\Debug\netcoreapp3.1\CleanArch.Domain.Core.AssemblyInfo.cs
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Domain.Core\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.pdb
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Domain.Core\obj\Debug\netcoreapp3.1\CleanArch.Domain.Core.csprojAssemblyReference.cache
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Domain.Core\obj\Debug\netcoreapp3.1\CleanArch.Domain.Core.dll
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Domain.Core\obj\Debug\netcoreapp3.1\CleanArch.Domain.Core.pdb

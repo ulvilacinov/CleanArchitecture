@@ -10,19 +10,6 @@
         "runtime": {
           "lib/netstandard2.0/MediatR.dll": {}
         }
-      },
-      "CleanArch.Domain.Core/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "MediatR": "8.0.1"
-        },
-        "compile": {
-          "bin/placeholder/CleanArch.Domain.Core.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CleanArch.Domain.Core.dll": {}
-        }
       }
     }
   },
@@ -42,16 +29,10 @@
         "mediatr.8.0.1.nupkg.sha512",
         "mediatr.nuspec"
       ]
-    },
-    "CleanArch.Domain.Core/1.0.0": {
-      "type": "project",
-      "path": "../CleanArch.Domain.Core/CleanArch.Domain.Core.csproj",
-      "msbuildProject": "../CleanArch.Domain.Core/CleanArch.Domain.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "CleanArch.Domain.Core >= 1.0.0",
       "MediatR >= 8.0.1"
     ]
   },
@@ -62,11 +43,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Neptun\\source\\repos\\CleanArchitecture\\CleanArch\\CleanArch.Infra.Bus\\CleanArch.Infra.Bus.csproj",
-      "projectName": "CleanArch.Infra.Bus",
-      "projectPath": "C:\\Users\\Neptun\\source\\repos\\CleanArchitecture\\CleanArch\\CleanArch.Infra.Bus\\CleanArch.Infra.Bus.csproj",
+      "projectUniqueName": "C:\\Users\\Neptun\\source\\repos\\CleanArchitecture\\CleanArch\\CleanArch.Domain.Core\\CleanArch.Domain.Core.csproj",
+      "projectName": "CleanArch.Domain.Core",
+      "projectPath": "C:\\Users\\Neptun\\source\\repos\\CleanArchitecture\\CleanArch\\CleanArch.Domain.Core\\CleanArch.Domain.Core.csproj",
       "packagesPath": "C:\\Users\\Neptun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Neptun\\source\\repos\\CleanArchitecture\\CleanArch\\CleanArch.Infra.Bus\\obj\\",
+      "outputPath": "C:\\Users\\Neptun\\source\\repos\\CleanArchitecture\\CleanArch\\CleanArch.Domain.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -84,11 +65,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {
-            "C:\\Users\\Neptun\\source\\repos\\CleanArchitecture\\CleanArch\\CleanArch.Domain.Core\\CleanArch.Domain.Core.csproj": {
-              "projectPath": "C:\\Users\\Neptun\\source\\repos\\CleanArchitecture\\CleanArch\\CleanArch.Domain.Core\\CleanArch.Domain.Core.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
