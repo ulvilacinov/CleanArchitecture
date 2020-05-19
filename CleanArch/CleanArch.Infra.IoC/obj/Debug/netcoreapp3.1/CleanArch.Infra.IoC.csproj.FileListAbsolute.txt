@@ -6,3 +6,10 @@ C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Infra.IoC\obj
 C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArch.Infra.IoC.pdb
 C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArch.Infra.IoC.dll
 C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArch.Infra.IoC.pdb
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArch.Application.dll
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArch.Domain.dll
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.dll
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArch.Application.pdb
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.pdb
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArch.Infra.IoC.csproj.CopyComplete
