@@ -9,3 +9,5 @@ C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Application\o
 C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.csproj.CopyComplete
 C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.dll
 C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Application\obj\Debug\netcoreapp3.1\CleanArch.Application.pdb
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Application\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.dll
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Application\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.pdb

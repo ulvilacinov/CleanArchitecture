@@ -9,11 +9,20 @@
       "CleanArch.Infra.IoC/1.0.0": {
         "dependencies": {
           "CleanArch.Application": "1.0.0",
+          "CleanArch.Infra.Bus": "1.0.0",
           "CleanArch.Infra.Data": "1.0.0",
           "Microsoft.Extensions.DependencyInjection": "3.1.4"
         },
         "runtime": {
           "CleanArch.Infra.IoC.dll": {}
+        }
+      },
+      "MediatR/8.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/MediatR.dll": {
+            "assemblyVersion": "8.0.1.0",
+            "fileVersion": "8.0.1.0"
+          }
         }
       },
       "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
@@ -859,8 +868,28 @@
         }
       },
       "CleanArch.Domain/1.0.0": {
+        "dependencies": {
+          "CleanArch.Domain.Core": "1.0.0"
+        },
         "runtime": {
           "CleanArch.Domain.dll": {}
+        }
+      },
+      "CleanArch.Domain.Core/1.0.0": {
+        "dependencies": {
+          "MediatR": "8.0.1"
+        },
+        "runtime": {
+          "CleanArch.Domain.Core.dll": {}
+        }
+      },
+      "CleanArch.Infra.Bus/1.0.0": {
+        "dependencies": {
+          "CleanArch.Domain.Core": "1.0.0",
+          "MediatR": "8.0.1"
+        },
+        "runtime": {
+          "CleanArch.Infra.Bus.dll": {}
         }
       },
       "CleanArch.Infra.Data/1.0.0": {
@@ -880,6 +909,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "MediatR/8.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nqtv05FHNNNLmEv4QN9pRtmSLa0bnDPciOjLKpA/k5FZIVS72vPyY3/1lHQ9V/dcQSMA5ZLig62SyRk2cSKNBA==",
+      "path": "mediatr/8.0.1",
+      "hashPath": "mediatr.8.0.1.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
       "type": "package",
@@ -1489,6 +1525,16 @@
       "sha512": ""
     },
     "CleanArch.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArch.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArch.Infra.Bus/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -163,3 +163,8 @@ C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Mvc\bin\Debug
 C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp3.1\CleanArch.Mvc.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp3.1\CleanArch.Mvc.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Course\Index.cshtml.g.cs
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.dll
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.pdb
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\CleanArch.Infra.Bus.dll
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\CleanArch.Infra.Bus.pdb

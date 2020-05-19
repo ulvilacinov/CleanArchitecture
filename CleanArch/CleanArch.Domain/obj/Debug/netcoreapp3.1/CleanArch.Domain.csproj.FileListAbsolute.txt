@@ -5,3 +5,7 @@ C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Domain\obj\De
 C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.AssemblyInfo.cs
 C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.dll
 C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.pdb
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Domain\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.dll
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Domain\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.pdb
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.csprojAssemblyReference.cache
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.csproj.CopyComplete

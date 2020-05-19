@@ -11,3 +11,5 @@ C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Infra.Data\bi
 C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Domain.dll
 C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb
 C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.csproj.CopyComplete
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.dll
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Domain.Core.pdb

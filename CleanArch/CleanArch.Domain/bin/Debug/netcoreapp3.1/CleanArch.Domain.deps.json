@@ -7,14 +7,45 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "CleanArch.Domain/1.0.0": {
+        "dependencies": {
+          "CleanArch.Domain.Core": "1.0.0"
+        },
         "runtime": {
           "CleanArch.Domain.dll": {}
+        }
+      },
+      "MediatR/8.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/MediatR.dll": {
+            "assemblyVersion": "8.0.1.0",
+            "fileVersion": "8.0.1.0"
+          }
+        }
+      },
+      "CleanArch.Domain.Core/1.0.0": {
+        "dependencies": {
+          "MediatR": "8.0.1"
+        },
+        "runtime": {
+          "CleanArch.Domain.Core.dll": {}
         }
       }
     }
   },
   "libraries": {
     "CleanArch.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MediatR/8.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nqtv05FHNNNLmEv4QN9pRtmSLa0bnDPciOjLKpA/k5FZIVS72vPyY3/1lHQ9V/dcQSMA5ZLig62SyRk2cSKNBA==",
+      "path": "mediatr/8.0.1",
+      "hashPath": "mediatr.8.0.1.nupkg.sha512"
+    },
+    "CleanArch.Domain.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

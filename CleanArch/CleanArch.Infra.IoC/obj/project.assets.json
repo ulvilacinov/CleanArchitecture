@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "MediatR/8.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/MediatR.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MediatR.dll": {}
+        }
+      },
       "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
         "type": "package",
         "compile": {
@@ -1269,11 +1278,41 @@
       "CleanArch.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "CleanArch.Domain.Core": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/CleanArch.Domain.dll": {}
         },
         "runtime": {
           "bin/placeholder/CleanArch.Domain.dll": {}
+        }
+      },
+      "CleanArch.Domain.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MediatR": "8.0.1"
+        },
+        "compile": {
+          "bin/placeholder/CleanArch.Domain.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanArch.Domain.Core.dll": {}
+        }
+      },
+      "CleanArch.Infra.Bus/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "CleanArch.Domain.Core": "1.0.0",
+          "MediatR": "8.0.1"
+        },
+        "compile": {
+          "bin/placeholder/CleanArch.Infra.Bus.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanArch.Infra.Bus.dll": {}
         }
       },
       "CleanArch.Infra.Data/1.0.0": {
@@ -1294,6 +1333,22 @@
     }
   },
   "libraries": {
+    "MediatR/8.0.1": {
+      "sha512": "nqtv05FHNNNLmEv4QN9pRtmSLa0bnDPciOjLKpA/k5FZIVS72vPyY3/1lHQ9V/dcQSMA5ZLig62SyRk2cSKNBA==",
+      "type": "package",
+      "path": "mediatr/8.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "gradient_128x128.png",
+        "lib/net461/MediatR.dll",
+        "lib/net461/MediatR.xml",
+        "lib/netstandard2.0/MediatR.dll",
+        "lib/netstandard2.0/MediatR.xml",
+        "mediatr.8.0.1.nupkg.sha512",
+        "mediatr.nuspec"
+      ]
+    },
     "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
       "sha512": "yuvf07qFWFqtK3P/MRkEKLhn5r2UbSpVueRziSqj0yJQIKFwG1pq9mOayK3zE5qZCTs0CbrwL9M6R8VwqyGy2w==",
       "type": "package",
@@ -4924,6 +4979,16 @@
       "path": "../CleanArch.Domain/CleanArch.Domain.csproj",
       "msbuildProject": "../CleanArch.Domain/CleanArch.Domain.csproj"
     },
+    "CleanArch.Domain.Core/1.0.0": {
+      "type": "project",
+      "path": "../CleanArch.Domain.Core/CleanArch.Domain.Core.csproj",
+      "msbuildProject": "../CleanArch.Domain.Core/CleanArch.Domain.Core.csproj"
+    },
+    "CleanArch.Infra.Bus/1.0.0": {
+      "type": "project",
+      "path": "../CleanArch.Infra.Bus/CleanArch.Infra.Bus.csproj",
+      "msbuildProject": "../CleanArch.Infra.Bus/CleanArch.Infra.Bus.csproj"
+    },
     "CleanArch.Infra.Data/1.0.0": {
       "type": "project",
       "path": "../CleanArch.Infra.Data/CleanArch.Infra.Data.csproj",
@@ -4933,6 +4998,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "CleanArch.Application >= 1.0.0",
+      "CleanArch.Infra.Bus >= 1.0.0",
       "CleanArch.Infra.Data >= 1.0.0",
       "Microsoft.Extensions.DependencyInjection >= 3.1.4"
     ]
@@ -4969,6 +5035,9 @@
           "projectReferences": {
             "C:\\Users\\Neptun\\source\\repos\\CleanArchitecture\\CleanArch\\CleanArch.Application\\CleanArch.Application.csproj": {
               "projectPath": "C:\\Users\\Neptun\\source\\repos\\CleanArchitecture\\CleanArch\\CleanArch.Application\\CleanArch.Application.csproj"
+            },
+            "C:\\Users\\Neptun\\source\\repos\\CleanArchitecture\\CleanArch\\CleanArch.Infra.Bus\\CleanArch.Infra.Bus.csproj": {
+              "projectPath": "C:\\Users\\Neptun\\source\\repos\\CleanArchitecture\\CleanArch\\CleanArch.Infra.Bus\\CleanArch.Infra.Bus.csproj"
             },
             "C:\\Users\\Neptun\\source\\repos\\CleanArchitecture\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj": {
               "projectPath": "C:\\Users\\Neptun\\source\\repos\\CleanArchitecture\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj"
