@@ -15,7 +15,7 @@ namespace CleanArch.Application.Services
         private readonly IMediatorHandler _bus;
         public CourseService(ICourseRepository courseRepository, IMediatorHandler bus)
         {
-            _bus = _bus;
+            _bus = bus;
             _courseRepository = courseRepository;
         }
 
