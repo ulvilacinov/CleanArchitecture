@@ -167,5 +167,7 @@ C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Mvc\bin\Debug
 C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\CleanArch.Infra.Bus.dll
 C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\CleanArch.Infra.Bus.pdb
 C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp3.1\CleanArch.Mvc.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp3.1\CleanArch.Mvc.MvcApplicationPartsAssemblyInfo.cache

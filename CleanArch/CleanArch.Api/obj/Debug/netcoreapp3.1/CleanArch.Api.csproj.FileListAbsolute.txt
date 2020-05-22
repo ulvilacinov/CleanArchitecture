@@ -66,5 +66,7 @@ C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Api\bin\Debug
 C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Api\obj\Debug\netcoreapp3.1\CleanArch.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Neptun\source\repos\CleanArchitecture\CleanArch\CleanArch.Api\obj\Debug\netcoreapp3.1\CleanArch.Api.MvcApplicationPartsAssemblyInfo.cache

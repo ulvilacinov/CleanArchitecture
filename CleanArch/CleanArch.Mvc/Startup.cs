@@ -15,6 +15,7 @@ using Microsoft.Extensions.Hosting;
 using CleanArch.Infra.Data.Context;
 using CleanArch.Infra.IoC;
 using MediatR;
+using CleanArch.Mvc.Configurations;
 
 namespace CleanArch.Mvc
 {
@@ -43,6 +44,7 @@ namespace CleanArch.Mvc
                 options.UseSqlServer(Configuration.GetConnectionString("UniversityDbConnection"));
             });
             services.AddMediatR(typeof(Startup));
+            services.RegisterAutoMapper();
 
             RegisterServices(services);
         }
